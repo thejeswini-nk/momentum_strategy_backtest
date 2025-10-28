@@ -51,7 +51,4 @@ The notebook downloads data via `yfinance`, generates buy/sell signals, and eval
 - Integration with position-sizing and risk-control models  
 
 
-## 📚 Dependencies
-
-
 
